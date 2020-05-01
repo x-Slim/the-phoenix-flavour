@@ -494,7 +494,7 @@ Bundled with Merge Plugins Hide comes another useful plugin, Sync Mod Order. Thi
 
 If on the main page for SKSE there is a different version number than the one noted above, Skyrim and the Script Extender were likely updated and you need to download the previous version from the archive page (see picture below).
 
-![SKSE Download](Pictures/Setup/skse_download.png)
+![SKSE Download](Pictures/setup/skse_download.png)
 
 ## 5.2 Installation
 
